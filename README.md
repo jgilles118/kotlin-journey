@@ -26,6 +26,7 @@ git push -uf origin main
 ## Integrate with your tools
 
 - [ ] [Set up project integrations](https://gitlab.com/HiddenJemz/kotlin-journey/-/settings/integrations)
+- [ ] [Kotin_Resources](hjttps://kotlinlang.org)
 
 ## Collaborate with your team
 
